@@ -1,4 +1,9 @@
-### ---source files can be found in the Portfolio_Analysis repo. 
+### ---the following source files can be found in the Portfolio_Analysis repo:
+###       1. aapl_historical.csv
+###       2. algo_returns.csv
+###       3. cost_historical.csv
+###       4. goog_historical
+###       5. sp500_history.csv 
 ### ---collaborated in part with Minh An Le. Some codes are therefore similar. 
 
 # Background
