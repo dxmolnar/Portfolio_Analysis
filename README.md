@@ -1,10 +1,10 @@
-### ---the following source files can be found in the Portfolio_Analysis repo:
-###       1. aapl_historical.csv
-###       2. algo_returns.csv
-###       3. cost_historical.csv
-###       4. goog_historical
-###       5. sp500_history.csv 
-### ---collaborated in part with Minh An Le. Some codes are therefore similar. 
+>>> the following source files can be found in the Portfolio_Analysis repo:
+       1. aapl_historical.csv
+       2. algo_returns.csv
+       3. cost_historical.csv
+       4. goog_historical
+       5. sp500_history.csv 
+ >>> collaborated in part with Minh An Le. Some codes are therefore similar. 
 
 # Background
 You have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
