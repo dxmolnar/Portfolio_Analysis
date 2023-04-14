@@ -1,3 +1,6 @@
+### ---source files can be found in the Portfolio_Analysis repo. 
+### ---collaborated in part with Minh An Le. Some codes are therefore similar. 
+
 # Background
 You have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 
