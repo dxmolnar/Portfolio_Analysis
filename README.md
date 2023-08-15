@@ -18,17 +18,20 @@ Metrics for performance and risk are computed and illustrated for every portfoli
 
 ### Performance Analysis
 Daily returns of all portfolios calculated and plotted. 
+![cumulative_returns_plot](https://github.com/dxmolnar/Portfolio_Analysis/assets/127795314/71da7edc-49cc-4aa2-82a1-cb0af43463ad)
 
 ### Risk Analysis
 * Box plots created
 * Standard Deviation for all portfolios
 * Portfolio comparisons
 * Annualized standard deviation calculation
+![box_plots_fund_mngmt](https://github.com/dxmolnar/Portfolio_Analysis/assets/127795314/af91ae0e-ed53-4585-a2a7-44c34b24e0a3)
 
 ### Rolling Statistics
 * Rolling standard deviation for all portfolios, using a 21-day window calculated and plotted
 * Correlation between each stock to determine which portfolios mimic the S&P 500 calculate and plotted 
 * 60-day rolling beta between a Custom portfolio and the S&P 500 calculated and plotted 
+![21_day_exp_weighted_avg](https://github.com/dxmolnar/Portfolio_Analysis/assets/127795314/04f1d8ab-05a2-472c-96c0-1d9a2e20d44a)
 
 ## Custom Portfolio
 A Custom portfolio was created to compare to previous portfolios such as the S&P 500
