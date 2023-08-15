@@ -13,7 +13,7 @@ The following source files can be found in the Portfolio_Analysis repo:
 ### Data Cleaning
 Data from the csv files are read into Pandas DataFrame and cleaned by dropping null values.
 
-### Perform Quantitative Analysis
+### Quantitative Analysis
 Metrics for performance and risk are computed and illustrated for every portfolio. This encompasses daily returns, aggregate returns, box diagrams, evolving statistics, correlation assessments, and Sharpe ratios.
 
 ### Performance Analysis
