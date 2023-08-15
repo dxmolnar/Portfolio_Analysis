@@ -1,13 +1,14 @@
 # A Whale off the Port(folio)
 
+This project employs Python and Pandas to evaluate different investment portfolios, contrasting their risk and performance metrics.
+
+### Files
 The following source files can be found in the Portfolio_Analysis repo:
 * aapl_historical.csv
 * algo_returns.csv
 * cost_historical.csv
 * goog_historical
 * sp500_history.csv
-  
-> Collaborated in part with Minh An Le. Some codes are therefore similar. 
 
 ### Data Cleaning
 Data from the csv files are read into Pandas DataFrame and cleaned by dropping null values.
@@ -39,3 +40,6 @@ Unfortunately the "Custom" portfolio didn't meet expectations.
 It not only lagged behind the S&P500 combined portfolio but essentially ended up being the second worse portfolio in the above shown list. 
 
 The project, however, was an excellent way to show comparisons of various stock market portfolios. 
+
+## Note
+> Collaborated in part with Minh An Le. Some codes are therefore similar. 
